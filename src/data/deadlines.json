@@ -1,0 +1,70 @@
+[
+    {
+        "id": "catalogue",
+        "date": "2019-08-23",
+        "description": {
+            "ru": "Последний срок подачи информации в официальный каталог.",
+            "en": "The deadline for submitting information to the official catalogue."
+        },
+        "link": "/catalogue"
+    },
+    {
+        "id": "contractor",
+        "date": "2019-08-10",
+        "description": {
+            "ru": "Последний срок согласования застройщика выставочной площади.",
+            "en": "The deadline for agreement of the exhibition space contractor."
+        },
+        "link": "/contractor"
+    },
+    {
+        "date": "2019-08-10",
+        "description": {
+            "ru": "Последний срок аккредитации двухэтажных стендов у Генерального застройщика.",
+            "en": "The deadline for accreditation of the contractor company and double-floors stands approval with the General Contractor."
+        }
+    },
+    {
+        "id": "electricity",
+        "date": "2019-08-20",
+        "description": {
+            "ru": "Последний срок заказа необходимой мощности электричества на стенд.",
+            "en": "The deadline for ordering the necessary power of electricity on stand."
+        },
+        "link": "/electricity"
+    },
+    {
+        "id": "additionalEquipment",
+        "date": "2019-08-26",
+        "description": {
+            "ru": "Последний срок размещения заказа на дополнительное оборудование.",
+            "en": "The deadline for additional equipment order without the percent surcharge."
+        },
+        "link": "/additional-equipment"
+    },
+    {
+        "date": "2019-09-03",
+        "description": {
+            "ru": "Последний срок аккредитации одноэтажных стендов у Генерального застройщика.",
+            "en": "The deadline for accreditation of the contractor company and single-floor stands approval with the General Contractor."
+        }
+    },
+    {
+        "id": "autoPass",
+        "date": "2019-09-07",
+        "description": {
+            "ru": "Последний срок подачи информации на пропуск для автомобиля к монтажным воротам в день экспонента.",
+            "en": "The deadline for information submitting for the passes provision during the installation period."
+        },
+        "link": "/auto-passes"
+    },
+    {
+        "id": "badges",
+        "date": "2019-09-08",
+        "description": {
+            "ru": "Последний срок подачи информации для получения бейджей Участника выставки.",
+            "en": "The deadline for submitting information for Exhibitor badges."
+        },
+        "link": "/badges"
+    }
+]

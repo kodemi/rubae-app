@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'TTLakes-Medium';
+    src: url('./fonts/364082_0_0.eot');
+    src: url('./fonts/364082_0_0.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/364082_0_0.woff2') format('woff2'),
+        url('./fonts/364082_0_0.woff') format('woff'),
+        url('./fonts/364082_0_0.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.ant-select-selection-selected-value {
+    width: 100%;
+}
